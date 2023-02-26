@@ -4398,6 +4398,7 @@ input[type="button"].btn-block {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 0.5rem 0.5rem;
+  background-color: #37517e;
 }
 
 .navbar .container,
